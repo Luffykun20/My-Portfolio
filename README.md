@@ -28,6 +28,10 @@ To install this single-page application:
 ## [Usage](#table-of-contents)
     
 To use this website application, please follow the next link: [MyPortfolio](https://luffykun20.github.io/My-Portfolio) 
+
+The following image shows how the web application will look like:
+
+![landing page](assets/MyPortfolio.PNG)
     
 ## [Contributing](#table-of-contents)
 
