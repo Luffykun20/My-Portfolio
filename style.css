@@ -138,7 +138,7 @@ article section ul {
     color: white
 }
 article section img {
-    max-height: 200px;
+    max-height: 100%;
 }
 
 article section h2 {
@@ -147,8 +147,8 @@ article section h2 {
 }
 
 aside section img {
-    max-height: 220px;
-    max-width: 220px;
+    max-height: 100%;
+    max-width: 100%;
 }
 
 .approaching {
@@ -168,3 +168,5 @@ aside section img {
 .footer h2 {
     font-size: 20px;
 }
+
+
